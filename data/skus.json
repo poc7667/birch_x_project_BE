@@ -1,0 +1,242 @@
+[
+  {
+    "productID": "1",
+    "sku": [
+      {
+        "ID": "1",
+        "productID": "1",
+        "size": "64GB",
+        "color": "RED",
+        "style": null,
+        "image": "https://m.media-amazon.com/images/I/71E5zB1qbIL._FMwebp__.jpg",
+        "price": 829.0,
+        "stock": 20
+      },
+      {
+        "ID": "10",
+        "productID": "1",
+        "size": "64GB",
+        "color": "BLACK",
+        "style": null,
+        "image": "https://m.media-amazon.com/images/I/71fVoqRC0wL._FMwebp__.jpg",
+        "price": 829.0,
+        "stock": 10
+      },
+      {
+        "ID": "11",
+        "productID": "1",
+        "size": "128GB",
+        "color": "BLACK",
+        "style": null,
+        "image": "https://m.media-amazon.com/images/I/71fVoqRC0wL._FMwebp__.jpg",
+        "price": 879.0,
+        "stock": 16
+      },
+      {
+        "ID": "12",
+        "productID": "1",
+        "size": "256GB",
+        "color": "BLACK",
+        "style": null,
+        "image": "https://m.media-amazon.com/images/I/71fVoqRC0wL._FMwebp__.jpg",
+        "price": 979.0,
+        "stock": 5
+      },
+      {
+        "ID": "2",
+        "productID": "1",
+        "size": "128GB",
+        "color": "RED",
+        "style": null,
+        "image": "https://m.media-amazon.com/images/I/71E5zB1qbIL._FMwebp__.jpg",
+        "price": 879.0,
+        "stock": 25
+      },
+      {
+        "ID": "3",
+        "productID": "1",
+        "size": "256GB",
+        "color": "RED",
+        "style": null,
+        "image": "https://m.media-amazon.com/images/I/71E5zB1qbIL._FMwebp__.jpg",
+        "price": 979.0,
+        "stock": 36
+      },
+      {
+        "ID": "4",
+        "productID": "1",
+        "size": "64GB",
+        "color": "BLUE",
+        "style": null,
+        "image": "https://m.media-amazon.com/images/I/71ZOtNdaZCL._FMwebp__.jpg",
+        "price": 829.0,
+        "stock": 21
+      },
+      {
+        "ID": "5",
+        "productID": "1",
+        "size": "128GB",
+        "color": "BLUE",
+        "style": null,
+        "image": "https://m.media-amazon.com/images/I/71ZOtNdaZCL._FMwebp__.jpg",
+        "price": 879.0,
+        "stock": 32
+      },
+      {
+        "ID": "6",
+        "productID": "1",
+        "size": "256GB",
+        "color": "BLUE",
+        "style": null,
+        "image": "https://m.media-amazon.com/images/I/71ZOtNdaZCL._FMwebp__.jpg",
+        "price": 979.0,
+        "stock": 31
+      },
+      {
+        "ID": "7",
+        "productID": "1",
+        "size": "64GB",
+        "color": "WHITE",
+        "style": null,
+        "image": "https://m.media-amazon.com/images/I/711wsjBtWeL._FMwebp__.jpg",
+        "price": 829.0,
+        "stock": 1
+      },
+      {
+        "ID": "8",
+        "productID": "1",
+        "size": "128GB",
+        "color": "WHITE",
+        "style": null,
+        "image": "https://m.media-amazon.com/images/I/711wsjBtWeL._FMwebp__.jpg",
+        "price": 879.0,
+        "stock": 3
+      },
+      {
+        "ID": "9",
+        "productID": "1",
+        "size": "256GB",
+        "color": "WHITE",
+        "style": null,
+        "image": "https://m.media-amazon.com/images/I/711wsjBtWeL._FMwebp__.jpg",
+        "price": 979.0,
+        "stock": 5
+      }
+    ]
+  },
+  {
+    "productID": "2",
+    "sku": [
+      {
+        "ID": "13",
+        "productID": "2",
+        "size": null,
+        "color": null,
+        "style": null,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61QthZv-OKL.jpg",
+        "price": 39.84,
+        "stock": 100
+      }
+    ]
+  },
+  {
+    "productID": "3",
+    "sku": [
+      {
+        "ID": "14",
+        "productID": "3",
+        "size": null,
+        "color": null,
+        "style": null,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/61R9D-S0AwS._AC_SL1300_.jpg",
+        "price": 11.99,
+        "stock": 501
+      }
+    ]
+  },
+  {
+    "productID": "4",
+    "sku": [
+      {
+        "ID": "15",
+        "productID": "4",
+        "size": "0-9 Months",
+        "color": "Blue Elephat",
+        "style": null,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/810%2Bv4Lu2QL._SX425_.jpg",
+        "price": 9.54,
+        "stock": 50
+      },
+      {
+        "ID": "16",
+        "productID": "4",
+        "size": "0-9 Months",
+        "color": "White Chicken",
+        "style": null,
+        "image": "https://m.media-amazon.com/images/I/71UQ1r-fBeL._SL1500_.jpg",
+        "price": 12.59,
+        "stock": 26
+      },
+      {
+        "ID": "17",
+        "productID": "4",
+        "size": "0-9 Months",
+        "color": "Blue Alligator",
+        "style": null,
+        "image": "https://m.media-amazon.com/images/I/81IhD1Bkp8L._SL1500_.jpg",
+        "price": 12.99,
+        "stock": 12
+      }
+    ]
+  },
+  {
+    "productID": "5",
+    "sku": [
+      {
+        "ID": "18",
+        "productID": "5",
+        "size": null,
+        "color": null,
+        "style": null,
+        "image": "https://images-na.ssl-images-amazon.com/images/I/71Seq8%2BS6rL._AC_SL1435_.jpg",
+        "price": 56.51,
+        "stock": 30
+      }
+    ]
+  },
+  {
+    "productID": "6",
+    "sku": [
+      {
+        "ID": "19",
+        "productID": "6",
+        "size": null,
+        "color": null,
+        "style": "Intel i3-1005G1 | 4GB RAM | 128G SSD",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81oVSSITRQL._AC_SL1500_.jpg",
+        "price": 349.99,
+        "stock": 35
+      },
+      {
+        "ID": "20",
+        "productID": "6",
+        "size": null,
+        "color": null,
+        "style": "Intel i3-1005G1 | 8GB RAM | 128G SSD",
+        "image": "https://m.media-amazon.com/images/I/81fstJkUlaL._AC_SL1500_.jpg",
+        "price": 453.0,
+        "stock": 36
+      },
+      {
+        "ID": "21",
+        "productID": "6",
+        "size": null,
+        "color": null,
+        "style": "Intel i7-1165G7 | 8GB RAM | 512GB SSD",
+        "image": "https://images-na.ssl-images-amazon.com/images/I/81HUTXm2ClL._AC_SL1500_.jpg",
+        "price": 696.65,
+        "stock": 20
+      }
+    ]
+  }
+]

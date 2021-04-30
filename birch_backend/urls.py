@@ -21,5 +21,7 @@ from birch_backend import views
 urlpatterns = [
     path('', views.index),
     path('products', views.index),
+    path('skus', views.skus),
+    path('reviews', views.reviews),
     path('admin/', admin.site.urls),
 ]

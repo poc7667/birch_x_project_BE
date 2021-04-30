@@ -14,6 +14,16 @@ def index(request):
         jsonDataResponse = json.load(f)
     return JsonResponse(jsonDataResponse, safe=False)
 
+def skus(request):
+    with open('./data/skus.json') as f:
+        jsonDataResponse = json.load(f)
+    return JsonResponse(jsonDataResponse, safe=False)
+
+def reviews(request):
+    with open('./data/reviews.json') as f:
+        jsonDataResponse = json.load(f)
+    return JsonResponse(jsonDataResponse, safe=False)
+
 #
 # def reviews(request):
 #     # todo_list = Todo.objects.order_by('id')

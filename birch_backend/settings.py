@@ -25,11 +25,6 @@ SECRET_KEY = 'django-insecure-8+ieg411x^k4&fwl506zspsvba-nm(662j3wvv&-p1vib@cl18
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [
-    "323087b077be.ngrok.io",
-    "homework.birchwords.live"
-]
-
 
 # Application definition
 # https://stackoverflow.com/questions/35760943/how-can-i-enable-cors-on-django-rest-framework
@@ -131,8 +126,16 @@ STATIC_URL = '/static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
+ALLOWED_HOSTS = [
+    "323087b077be.ngrok.io",
+    "homework.birchwords.live",
+    "127.0.0.1"
+]
+
+
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:1072",
+    "http://127.0.0.1",
     "http://127.0.0.1:3002",
     "https://323087b077be.ngrok.io",
     "http://323087b077be.ngrok.io",
