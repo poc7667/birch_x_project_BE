@@ -1,7 +1,7 @@
 [
   {
     "productID": "1",
-    "sku": [
+    "skus": [
       {
         "ID": "1",
         "productID": "1",
@@ -126,7 +126,7 @@
   },
   {
     "productID": "2",
-    "sku": [
+    "skus": [
       {
         "ID": "13",
         "productID": "2",
@@ -141,7 +141,7 @@
   },
   {
     "productID": "3",
-    "sku": [
+    "skus": [
       {
         "ID": "14",
         "productID": "3",
@@ -156,7 +156,7 @@
   },
   {
     "productID": "4",
-    "sku": [
+    "skus": [
       {
         "ID": "15",
         "productID": "4",
@@ -191,7 +191,7 @@
   },
   {
     "productID": "5",
-    "sku": [
+    "skus": [
       {
         "ID": "18",
         "productID": "5",
@@ -206,7 +206,7 @@
   },
   {
     "productID": "6",
-    "sku": [
+    "skus": [
       {
         "ID": "19",
         "productID": "6",
