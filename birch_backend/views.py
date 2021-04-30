@@ -14,6 +14,16 @@ def index(request):
         jsonDataResponse = json.load(f)
     return JsonResponse(jsonDataResponse, safe=False)
 
+#
+# def reviews(request):
+#     # todo_list = Todo.objects.order_by('id')
+#     #
+#     # form = TodoForm()
+#     #
+#     # context = {'todo_list' : todo_list, 'form' : form}
+#     with open('./data/index.json') as f:
+#         jsonDataResponse = json.load(f)
+#     return JsonResponse(jsonDataResponse, safe=False)
 # @require_POST
 # def addTodo(request):
 #     form = TodoForm(request.POST)

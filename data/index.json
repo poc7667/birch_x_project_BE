@@ -6,7 +6,7 @@
       "skus": [
         {
           "skuID": "1",
-          "productID": 1,
+          "productID": "1",
           "size": "64GB",
           "color": "RED",
           "style": null,
@@ -16,7 +16,7 @@
         },
         {
           "skuID": "10",
-          "productID": 1,
+          "productID": "1",
           "size": "64GB",
           "color": "BLACK",
           "style": null,
@@ -26,7 +26,7 @@
         },
         {
           "skuID": "11",
-          "productID": 1,
+          "productID": "1",
           "size": "128GB",
           "color": "BLACK",
           "style": null,
@@ -36,7 +36,7 @@
         },
         {
           "skuID": "12",
-          "productID": 1,
+          "productID": "1",
           "size": "256GB",
           "color": "BLACK",
           "style": null,
@@ -46,7 +46,7 @@
         },
         {
           "skuID": "2",
-          "productID": 1,
+          "productID": "1",
           "size": "128GB",
           "color": "RED",
           "style": null,
@@ -56,7 +56,7 @@
         },
         {
           "skuID": "3",
-          "productID": 1,
+          "productID": "1",
           "size": "256GB",
           "color": "RED",
           "style": null,
@@ -66,7 +66,7 @@
         },
         {
           "skuID": "4",
-          "productID": 1,
+          "productID": "1",
           "size": "64GB",
           "color": "BLUE",
           "style": null,
@@ -76,7 +76,7 @@
         },
         {
           "skuID": "5",
-          "productID": 1,
+          "productID": "1",
           "size": "128GB",
           "color": "BLUE",
           "style": null,
@@ -86,7 +86,7 @@
         },
         {
           "skuID": "6",
-          "productID": 1,
+          "productID": "1",
           "size": "256GB",
           "color": "BLUE",
           "style": null,
@@ -96,7 +96,7 @@
         },
         {
           "skuID": "7",
-          "productID": 1,
+          "productID": "1",
           "size": "64GB",
           "color": "WHITE",
           "style": null,
@@ -106,7 +106,7 @@
         },
         {
           "skuID": "8",
-          "productID": 1,
+          "productID": "1",
           "size": "128GB",
           "color": "WHITE",
           "style": null,
@@ -116,7 +116,7 @@
         },
         {
           "skuID": "9",
-          "productID": 1,
+          "productID": "1",
           "size": "256GB",
           "color": "WHITE",
           "style": null,
@@ -133,7 +133,7 @@
       "skus": [
         {
           "skuID": "13",
-          "productID": 2,
+          "productID": "2",
           "size": null,
           "color": null,
           "style": null,
@@ -150,7 +150,7 @@
       "skus": [
         {
           "skuID": "14",
-          "productID": 3,
+          "productID": "3",
           "size": null,
           "color": null,
           "style": null,
@@ -167,7 +167,7 @@
       "skus": [
         {
           "skuID": "15",
-          "productID": 4,
+          "productID": "4",
           "size": "0-9 Months",
           "color": "Blue Elephat",
           "style": null,
@@ -177,7 +177,7 @@
         },
         {
           "skuID": "16",
-          "productID": 4,
+          "productID": "4",
           "size": "0-9 Months",
           "color": "White Chicken",
           "style": null,
@@ -187,7 +187,7 @@
         },
         {
           "skuID": "17",
-          "productID": 4,
+          "productID": "4",
           "size": "0-9 Months",
           "color": "Blue Alligator",
           "style": null,
@@ -204,7 +204,7 @@
       "skus": [
         {
           "skuID": "18",
-          "productID": 5,
+          "productID": "5",
           "size": null,
           "color": null,
           "style": null,
@@ -221,7 +221,7 @@
       "skus": [
         {
           "skuID": "19",
-          "productID": 6,
+          "productID": "6",
           "size": null,
           "color": null,
           "style": "Intel i3-1005G1 | 4GB RAM | 128G SSD",
@@ -231,7 +231,7 @@
         },
         {
           "skuID": "20",
-          "productID": 6,
+          "productID": "6",
           "size": null,
           "color": null,
           "style": "Intel i3-1005G1 | 8GB RAM | 128G SSD",
@@ -241,7 +241,7 @@
         },
         {
           "skuID": "21",
-          "productID": 6,
+          "productID": "6",
           "size": null,
           "color": null,
           "style": "Intel i7-1165G7 | 8GB RAM | 512GB SSD",
