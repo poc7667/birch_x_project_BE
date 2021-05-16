@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "order": 1,
+    "recipient": "Ying-Hua",
+    "recipientPhone": "+12125552368",
+    "shippingAddress": "2175 Grant Rd, Los Altos, CA 94024",
+    "shipDate": "2021-05-12T06:45:30.562701Z"
+  },
+  {
+    "id": 2,
+    "order": 2,
+    "recipient": "John",
+    "recipientPhone": "+12125552361",
+    "shippingAddress": "2176 Grant Rd, Los Altos, CA 94024",
+    "shipDate": "2021-05-12T06:46:20.061671Z"
+  }
+]

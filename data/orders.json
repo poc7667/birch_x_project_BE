@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "status": "new",
+    "orderedDate": "2021-05-10T06:24:51.564622Z",
+    "price": 4306.99,
+    "customer": 1
+  },
+  {
+    "id": 2,
+    "status": "paid",
+    "orderedDate": "2021-05-10T06:25:11.680347Z",
+    "price": 4476.0,
+    "customer": 1
+  }
+]

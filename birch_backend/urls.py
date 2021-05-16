@@ -23,5 +23,10 @@ urlpatterns = [
     path('products', views.index),
     path('skus', views.skus),
     path('reviews', views.reviews),
+    path('orders', views.orders),
+    path('shipments', views.shipments),
+    path('employees', views.employees),
+    path('payments', views.payments),
+    path('customers', views.customers),
     path('admin/', admin.site.urls),
 ]

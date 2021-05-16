@@ -1,0 +1,23 @@
+[
+  {
+    "id": 6,
+    "order": 1,
+    "method": "Paypal",
+    "paidDate": "2021-05-12T19:47:45.453595Z",
+    "billingAddress": "2175 Grant Rd, Los Altos, CA 94024"
+  },
+  {
+    "id": 7,
+    "order": 2,
+    "method": "CreditCrard",
+    "paidDate": "2021-05-12T19:49:45.229613Z",
+    "billingAddress": "1123 Grant Rd, Los Altos, CA 94024"
+  },
+  {
+    "id": 8,
+    "order": 3,
+    "method": "WareTransfer",
+    "paidDate": "2021-05-12T19:57:27.582891Z",
+    "billingAddress": "1 Grant Rd, Los Altos, CA 94024"
+  }
+]

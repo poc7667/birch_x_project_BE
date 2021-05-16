@@ -1,165 +1,155 @@
+
 [
   {
-    "productID": "1",
-    "reviews": [
-      {
-        "ID": "1",
-        "productID": "1",
-        "skuID": "1",
-        "score": 2,
-        "comment": "\"The product came with continuous software issues. The product was not damaged, and like all Apple products was packaged quite well. With that said, after booting it up I ran into non-stop issues. Everything from getting into my Apple ID Account, to getting my information transferred over. I spent most of my first day on the phone with Apple Care.\n\nAside from having that largest bezels, smallest battery (2,815mAh), slowest refresh rates (60Hz), and overpriced hardware, it looks nice and has a very fast processor! All things said, 5G is several years out and this phone is too.  For $800+ the Samsung S20FE or OnePlus 8 would be amazing alternatives.  Heck I would even buy the Pixel 5 over this.\n\nApple please listen to your customer base.  They don't want 5G or even better cameras. YOU'RE APPLE! This phone should have the smallest bezels, the largest battery, at least 8GB or RAM and 120Hz screen refresh like everyone else in the industry has been had for a year! Then you can charge $800 without a charger... lol\n\nCome on now!\""
-      },
-      {
-        "ID": "2",
-        "productID": "1",
-        "skuID": "5",
-        "score": 1,
-        "comment": "First you don\u2019t get AirPods Apple also doesn\u2019t give you the transformer you get the cord on the right side with the Sim card supposed to be it\u2019s filled in and it\u2019s different color than the rest of the case for that much money $100 more than the iPhone 11 I felt I got ripped off so don\u2019t waste your money I got stuck with the fall next year I will go for Samsung no more Apple ripping me off captez"
-      },
-      {
-        "ID": "3",
-        "productID": "1",
-        "skuID": "5",
-        "score": 5,
-        "comment": "\"I think personally that it is a good upgrade compared to the iPhone 11 from what people are saying that there phone broke after falling off the bed really ? I don\u2019t believe that crap first of all I bought this phone from apple and I dropped it by accident face first on my driveway it didn\u2019t brake the phone is good over all second of all\nThe whole changing situation people are saying the\nCharger is uncommon what the hell no it\u2019s a usbc to lighting cable usbc Charging bricks are everywhere my point is before you make a comment about this phone have some common sense about apple products\""
-      },
-      {
-        "ID": "4",
-        "productID": "1",
-        "skuID": "4",
-        "score": 5,
-        "comment": "This phone is a phone. I think. Phone."
-      }
-    ]
+    "id": 1,
+    "product": 1,
+    "sku": 1,
+    "score": 2,
+    "comment": "\"The product came with continuous software issues. The product was not damaged, and like all Apple products was packaged quite well. With that said, after booting it up I ran into non-stop issues. Everything from getting into my Apple ID Account, to getting my information transferred over. I spent most of my first day on the phone with Apple Care.  Aside from having that largest bezels, smallest battery (2,815mAh), slowest refresh rates (60Hz), and overpriced hardware, it looks nice and has a very fast processor! All things said, 5G is several years out and this phone is too.  For $800+ the Samsung S20FE or OnePlus 8 would be amazing alternatives.  Heck I would even buy the Pixel 5 over this.  Apple please listen to your customer base.  They don't want 5G or even better cameras. YOU'RE APPLE! This phone should have the smallest bezels, the largest battery, at least 8GB or RAM and 120Hz screen refresh like everyone else in the industry has been had for a year! Then you can charge $800 without a charger... lol  Come on now!\"",
+    "customer": 1
   },
   {
-    "productID": "2",
-    "reviews": [
-      {
-        "ID": "5",
-        "productID": "2",
-        "skuID": "13",
-        "score": 5,
-        "comment": "This book describes entire software development lifecycle incredibly well. It equips the reader a framework of thinking from the point use case and requirements are given to the engineers until it is becomes a UML. The examples provided are vivid and on point. Concepts of each next chapter has continuity from the previous chapter, which gives the reader progressive feedback. ABCDFG method that covered in this book provides a formalized way to transform use case into classes, I really love it, it is directly applicable to my job and it is a gold imo. Even an experienced coders would reap aha moments during reading. Also, the fact that it is written in the valley provides a flavor of how software development is done at the epicenter of technology."
-      },
-      {
-        "ID": "6",
-        "productID": "2",
-        "skuID": "13",
-        "score": 5,
-        "comment": "I got this book for my friend since she is interested in learning object-oriented programming and design. This book exposed her to different methodologies with clear descriptions and concrete examples and helpful graphics. Before reading this book, she had limited experience in OOAD and practical system modeling. This book did a good job comprehensively explaining analysis, design, UML, and design principles among other topics. In particular, the step-by-step design examples are very reader-friendly. For example, one case shows how to present code from use cases with UML graphs by applying the ABCDFG method. It also introduced her to different UML architecture diagrams, like layer, flow, and sequence diagrams. What she likes most about this book is the exercises section, which provides simple tests to let her know whether she really understands the concepts or not. She found it very easy to apply the methodologies from this book to her work."
-      },
-      {
-        "ID": "7",
-        "productID": "2",
-        "skuID": "13",
-        "score": 5,
-        "comment": "\"I am a computer science student and found this textbook to be a tremendously useful introduction and resource for object-oriented software design and engineering.\n\nThe text is a wonderfully-written discussion of the major topics in object-oriented design, with straightforward prose, plentiful examples, and high-quality diagrams and visuals. The book is well-designed and flows naturally from chapter to chapter. It's a quick read from start to finish, but also contains sufficient detail on each subject to serve as a comprehensive reference.\n\nIn addition to being a strong writer, it is clear that the author has deep experience in software design. The OOAD Cookbook is an indispensable reference for any software designer, whether a beginner first learning the concepts in an academic setting, or an experienced software engineer looking to improve his or her craft.\""
-      }
-    ]
+    "id": 2,
+    "product": 1,
+    "sku": 5,
+    "score": 1,
+    "comment": "First you don’t get AirPods Apple also doesn’t give you the transformer you get the cord on the right side with the Sim card supposed to be it’s filled in and it’s different color than the rest of the case for that much money $100 more than the iPhone 11 I felt I got ripped off so don’t waste your money I got stuck with the fall next year I will go for Samsung no more Apple ripping me off captez",
+    "customer": 1
   },
   {
-    "productID": "3",
-    "reviews": [
-      {
-        "ID": "10",
-        "productID": "3",
-        "skuID": "14",
-        "score": 5,
-        "comment": "as a collector, & a captain america fan, i approve of this funko pop."
-      },
-      {
-        "ID": "8",
-        "productID": "3",
-        "skuID": "14",
-        "score": 4,
-        "comment": "Arrived broken and it's a pain to take it somewhere to return."
-      },
-      {
-        "ID": "9",
-        "productID": "3",
-        "skuID": "14",
-        "score": 5,
-        "comment": "He looks so much like Mackey- even exudes his energy. I made my own wings."
-      }
-    ]
+    "id": 3,
+    "product": 1,
+    "sku": 5,
+    "score": 5,
+    "comment": "\"I think personally that it is a good upgrade compared to the iPhone 11 from what people are saying that there phone broke after falling off the bed really ? I don’t believe that crap first of all I bought this phone from apple and I dropped it by accident face first on my driveway it didn’t brake the phone is good over all second of all The whole changing situation people are saying the Charger is uncommon what the hell no it’s a usbc to lighting cable usbc Charging bricks are everywhere my point is before you make a comment about this phone have some common sense about apple products\"",
+    "customer": 1
   },
   {
-    "productID": "4",
-    "reviews": [
-      {
-        "ID": "11",
-        "productID": "4",
-        "skuID": "15",
-        "score": 5,
-        "comment": "Cutest baby robe ever! My daughter wears 6-9 month clothes and there\u2019s still plenty of room in this for her. If you had an extremely tall baby, it may not be as good, but it is perfect for the average 6 month old!"
-      },
-      {
-        "ID": "12",
-        "productID": "4",
-        "skuID": "16",
-        "score": 5,
-        "comment": "My son loves his robe and so do we! Great comfy rob!"
-      },
-      {
-        "ID": "13",
-        "productID": "4",
-        "skuID": "17",
-        "score": 3,
-        "comment": "\"This little robe is absolutely adorable and super soft. My baby loves to be snuggled up and cuddled and looks ridiculously cute in his little fox robe. Unfortunately it isn't the BEST quality, but isn't horribly made. For the price it is acceptable. So I won't give it less than 3 stars.\n\nMy main issues are the size of the robe and shrinkage of the material. The robe is VERY small. My baby is 3 months old and it is really short on him; nearly up to his baby butt cheeks already. He won't be able to use it until 9 months old for sure.\n\nThe fabric is very soft and fluffy. it will feel great on baby's delicate skin. Unfortunately it shrank with the first wash. A little shrinkage is expected, but it will shrink quite a bit, even when following laundering instructions.\n\nThis is a very soft and very cute robe. However, if you have a bigger baby, I would consider purchasing a larger robe. This robe will not fit your baby very long. For the money it isn't bad, but it definitely isn't the best.\""
-      }
-    ]
+    "id": 4,
+    "product": 1,
+    "sku": 4,
+    "score": 5,
+    "comment": "This phone is a phone. I think. Phone.",
+    "customer": 1
   },
   {
-    "productID": "5",
-    "reviews": [
-      {
-        "ID": "14",
-        "productID": "5",
-        "skuID": "18",
-        "score": 1,
-        "comment": "This is NOT a sturdy cart. I have no idea why it is advertised as \"Amazon's Choice.\" Contrary to the advertisement and description, the steel is very light gauge and seems rather flimsy. I would hesitate to load it with much weight at all. It seems like it would break easily. The front wheels do not turn easily and the materials used in the construction of the cart are not strong. I was very disappointed when I assembled the cart. I would return it immediately but that is difficult since it is already assembled and the box it came in feel apart when we opened it. Everything about this cart is cheap and certainly not worth the extra dollars it cost. I'm really surprised about Amazon."
-      },
-      {
-        "ID": "15",
-        "productID": "5",
-        "skuID": "18",
-        "score": 1,
-        "comment": "Used it twice and while pushing it the front wheel broke causing me to fall over the cart! Very disappointing! Because it seemed like a good Cart with good reviews when I purchased it."
-      },
-      {
-        "ID": "16",
-        "productID": "5",
-        "skuID": "18",
-        "score": 4,
-        "comment": "Cart is bigger than I expected, but that has turned out to be a positive. We have just moved into a senior residential facility, and our parking place is a considerable distance away. The front wheels can be a little difficult to line up when making turns. All in all, I would recommend"
-      }
-    ]
+    "id": 5,
+    "product": 2,
+    "sku": 13,
+    "score": 5,
+    "comment": "This book describes entire software development lifecycle incredibly well. It equips the reader a framework of thinking from the point use case and requirements are given to the engineers until it is becomes a UML. The examples provided are vivid and on point. Concepts of each next chapter has continuity from the previous chapter, which gives the reader progressive feedback. ABCDFG method that covered in this book provides a formalized way to transform use case into classes, I really love it, it is directly applicable to my job and it is a gold imo. Even an experienced coders would reap aha moments during reading. Also, the fact that it is written in the valley provides a flavor of how software development is done at the epicenter of technology.",
+    "customer": 1
   },
   {
-    "productID": "6",
-    "reviews": [
-      {
-        "ID": "17",
-        "productID": "6",
-        "skuID": "19",
-        "score": 5,
-        "comment": "If you keep your expectations inline, like others have already stated, you will be very happy with this little guy. I upgraded the hard drive from the built in eMMC to an NVMe via the M2. slot (Kingston A2000, 250gb @$49.99, read=1300/write=1000 verified) and it makes this laptop very zippy to operate. I tested the built-in eMMC and it still gets a respectable 300mb read/200mb write speed, so if you don't want to upgrade it will still be fast enough. Don't expect to do things like gaming(unless you're thinking about something like Microsoft cloud gamepass for PC, launches in the spring). It will do great with everything else, from movies to excel , or any program that's not resource intensive nature. Overall I highly recommend this laptop and at this price it provides an abundance of value."
-      },
-      {
-        "ID": "18",
-        "productID": "6",
-        "skuID": "20",
-        "score": 5,
-        "comment": "\"It boots fast and the battery lasts a long time. I did add a 128GB micro SDXC card.\nThe touch pad also is a calculator for all things very cool it can be turned on and off.\nI am very happy with my purchase.\""
-      },
-      {
-        "ID": "19",
-        "productID": "6",
-        "skuID": "21",
-        "score": 5,
-        "comment": "\"Before returning the product for slow speed, BE SURE TO UPDATE WINDOWS WITH THE WINDOWS UPDATER IN THE LAPTOP!!\nYou Asus will then operate at a very nice speed!\""
-      }
-    ]
+    "id": 6,
+    "product": 2,
+    "sku": 13,
+    "score": 5,
+    "comment": "I got this book for my friend since she is interested in learning object-oriented programming and design. This book exposed her to different methodologies with clear descriptions and concrete examples and helpful graphics. Before reading this book, she had limited experience in OOAD and practical system modeling. This book did a good job comprehensively explaining analysis, design, UML, and design principles among other topics. In particular, the step-by-step design examples are very reader-friendly. For example, one case shows how to present code from use cases with UML graphs by applying the ABCDFG method. It also introduced her to different UML architecture diagrams, like layer, flow, and sequence diagrams. What she likes most about this book is the exercises section, which provides simple tests to let her know whether she really understands the concepts or not. She found it very easy to apply the methodologies from this book to her work.",
+    "customer": 1
+  },
+  {
+    "id": 7,
+    "product": 2,
+    "sku": 13,
+    "score": 5,
+    "comment": "\"I am a computer science student and found this textbook to be a tremendously useful introduction and resource for object-oriented software design and engineering.  The text is a wonderfully-written discussion of the major topics in object-oriented design, with straightforward prose, plentiful examples, and high-quality diagrams and visuals. The book is well-designed and flows naturally from chapter to chapter. It's a quick read from start to finish, but also contains sufficient detail on each subject to serve as a comprehensive reference.  In addition to being a strong writer, it is clear that the author has deep experience in software design. The OOAD Cookbook is an indispensable reference for any software designer, whether a beginner first learning the concepts in an academic setting, or an experienced software engineer looking to improve his or her craft.\"",
+    "customer": 1
+  },
+  {
+    "id": 8,
+    "product": 3,
+    "sku": 14,
+    "score": 4,
+    "comment": "Arrived broken and it's a pain to take it somewhere to return.",
+    "customer": 1
+  },
+  {
+    "id": 9,
+    "product": 3,
+    "sku": 14,
+    "score": 5,
+    "comment": "He looks so much like Mackey- even exudes his energy. I made my own wings.",
+    "customer": 1
+  },
+  {
+    "id": 10,
+    "product": 3,
+    "sku": 14,
+    "score": 5,
+    "comment": "as a collector, & a captain america fan, i approve of this funko pop.",
+    "customer": 1
+  },
+  {
+    "id": 11,
+    "product": 4,
+    "sku": 15,
+    "score": 5,
+    "comment": "Cutest baby robe ever! My daughter wears 6-9 month clothes and there’s still plenty of room in this for her. If you had an extremely tall baby, it may not be as good, but it is perfect for the average 6 month old!",
+    "customer": 1
+  },
+  {
+    "id": 12,
+    "product": 4,
+    "sku": 16,
+    "score": 5,
+    "comment": "My son loves his robe and so do we! Great comfy rob!",
+    "customer": 1
+  },
+  {
+    "id": 13,
+    "product": 4,
+    "sku": 17,
+    "score": 3,
+    "comment": "\"This little robe is absolutely adorable and super soft. My baby loves to be snuggled up and cuddled and looks ridiculously cute in his little fox robe. Unfortunately it isn't the BEST quality, but isn't horribly made. For the price it is acceptable. So I won't give it less than 3 stars.  My main issues are the size of the robe and shrinkage of the material. The robe is VERY small. My baby is 3 months old and it is really short on him; nearly up to his baby butt cheeks already. He won't be able to use it until 9 months old for sure.  The fabric is very soft and fluffy. it will feel great on baby's delicate skin. Unfortunately it shrank with the first wash. A little shrinkage is expected, but it will shrink quite a bit, even when following laundering instructions.  This is a very soft and very cute robe. However, if you have a bigger baby, I would consider purchasing a larger robe. This robe will not fit your baby very long. For the money it isn't bad, but it definitely isn't the best.\"",
+    "customer": 1
+  },
+  {
+    "id": 14,
+    "product": 5,
+    "sku": 18,
+    "score": 1,
+    "comment": "This is NOT a sturdy cart. I have no idea why it is advertised as \"Amazon's Choice.\" Contrary to the advertisement and description, the steel is very light gauge and seems rather flimsy. I would hesitate to load it with much weight at all. It seems like it would break easily. The front wheels do not turn easily and the materials used in the construction of the cart are not strong. I was very disappointed when I assembled the cart. I would return it immediately but that is difficult since it is already assembled and the box it came in feel apart when we opened it. Everything about this cart is cheap and certainly not worth the extra dollars it cost. I'm really surprised about Amazon.",
+    "customer": 1
+  },
+  {
+    "id": 15,
+    "product": 5,
+    "sku": 18,
+    "score": 1,
+    "comment": "Used it twice and while pushing it the front wheel broke causing me to fall over the cart! Very disappointing! Because it seemed like a good Cart with good reviews when I purchased it.",
+    "customer": 1
+  },
+  {
+    "id": 16,
+    "product": 5,
+    "sku": 18,
+    "score": 4,
+    "comment": "Cart is bigger than I expected, but that has turned out to be a positive. We have just moved into a senior residential facility, and our parking place is a considerable distance away. The front wheels can be a little difficult to line up when making turns. All in all, I would recommend",
+    "customer": 1
+  },
+  {
+    "id": 17,
+    "product": 6,
+    "sku": 19,
+    "score": 5,
+    "comment": "If you keep your expectations inline, like others have already stated, you will be very happy with this little guy. I upgraded the hard drive from the built in eMMC to an NVMe via the M2. slot (Kingston A2000, 250gb @$49.99, read=1300/write=1000 verified) and it makes this laptop very zippy to operate. I tested the built-in eMMC and it still gets a respectable 300mb read/200mb write speed, so if you don't want to upgrade it will still be fast enough. Don't expect to do things like gaming(unless you're thinking about something like Microsoft cloud gamepass for PC, launches in the spring). It will do great with everything else, from movies to excel , or any program that's not resource intensive nature. Overall I highly recommend this laptop and at this price it provides an abundance of value.",
+    "customer": 1
+  },
+  {
+    "id": 18,
+    "product": 6,
+    "sku": 20,
+    "score": 5,
+    "comment": "\"It boots fast and the battery lasts a long time. I did add a 128GB micro SDXC card. The touch pad also is a calculator for all things very cool it can be turned on and off. I am very happy with my purchase.\"",
+    "customer": 1
+  },
+  {
+    "id": 19,
+    "product": 6,
+    "sku": 21,
+    "score": 5,
+    "comment": "\"Before returning the product for slow speed, BE SURE TO UPDATE WINDOWS WITH THE WINDOWS UPDATER IN THE LAPTOP!! You Asus will then operate at a very nice speed!\"",
+    "customer": 1
   }
 ]
