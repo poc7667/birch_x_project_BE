@@ -11,3 +11,6 @@ CORS_ALLOWED_ORIGINS = [
 ```
 
 
+ python -m pip install django-cors-headers
+
+
