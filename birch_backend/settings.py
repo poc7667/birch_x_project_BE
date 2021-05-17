@@ -127,7 +127,7 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
 ALLOWED_HOSTS = [
-    "850167eb4076.ngrok.io",
+    "d78ebdac96dc.ngrok.io",
     "homework.birchwords.live",
     "127.0.0.1"
 ]
@@ -140,6 +140,6 @@ CORS_ALLOWED_ORIGINS = [
     "http://127.0.0.1:3002",
     "http://127.0.0.1:3000",
     "https://850167eb4076.ngrok.io",
-    "http://850167eb4076.ngrok.io",
+    "http://d78ebdac96dc.ngrok.io",
     "http://homework.birchwords.live"
 ]
